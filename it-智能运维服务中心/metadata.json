@@ -1,8 +1,0 @@
-{
-  "name": "IT 智能运维服务中心",
-  "description": "基于 Udesk 架构的高级 IT 工单管理系统，集成钉钉与邮件渠道，支持 SLA 追踪、资产关联、知识库及效能分析，旨在为全国范围内的 IT 运维提供专业化、标准化的流程支持。",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
